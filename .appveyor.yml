@@ -61,3 +61,4 @@ test_script:
 artifacts:
 #- path: bitcoin-%APPVEYOR_BUILD_VERSION%.zip
 deploy: off
+
